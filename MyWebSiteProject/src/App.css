@@ -1,42 +1,2183 @@
-#root {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
+/* /* İkinci Alternatif */
 
-.logo {
-  height: 6em;
-  padding: 1.5em;
-  will-change: filter;
-  transition: filter 300ms;
-}
-.logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
-}
-.logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
-}
+position: relative;
+width: 1440px;
+height: 2530px;
 
-@keyframes logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+background: #FFFFFF;
 
-@media (prefers-reduced-motion: no-preference) {
-  a:nth-of-type(2) .logo {
-    animation: logo-spin infinite 20s linear;
-  }
-}
 
-.card {
-  padding: 2em;
-}
+/* footer */
 
-.read-the-docs {
-  color: #888;
-}
+position: absolute;
+width: 1440px;
+height: 409px;
+left: 0px;
+top: 2121px;
+
+
+
+/* Rectangle 31 */
+
+position: absolute;
+width: 1440px;
+height: 409px;
+left: 0px;
+top: 2121px;
+
+background: #F9F9F9;
+
+
+/* links */
+
+position: absolute;
+width: 1140px;
+height: 27px;
+left: 125px;
+top: 2373px;
+
+
+
+/* email */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 2px;
+
+position: absolute;
+width: 297px;
+height: 24px;
+left: 125px;
+top: 2375px;
+
+
+
+/* 👉 */
+
+width: 26px;
+height: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.05em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* almilasucode@gmail.com */
+
+width: 269px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+letter-spacing: 0.05em;
+text-decoration-line: underline;
+
+color: #AF0C48;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* websites */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+position: absolute;
+width: 294px;
+height: 27px;
+left: 971px;
+top: 2373px;
+
+
+
+/* Personal Blog */
+
+width: 120px;
+height: 27px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+letter-spacing: 0.01em;
+
+color: #0A0A14;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Github */
+
+width: 60px;
+height: 27px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+letter-spacing: 0.01em;
+
+color: #00AB6B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Linkedin */
+
+width: 74px;
+height: 27px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 150%;
+/* identical to box height, or 27px */
+letter-spacing: 0.01em;
+
+color: #0077B5;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Let’s work together on your next product. */
+
+position: absolute;
+width: 540px;
+height: 106px;
+left: 125px;
+top: 2206px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 42px;
+line-height: 125%;
+/* or 52px */
+
+color: #1F2937;
+
+
+
+/* profile */
+
+position: absolute;
+width: 1140px;
+height: 355px;
+left: 125px;
+top: 1010px;
+
+
+
+/* about-box */
+
+position: absolute;
+width: 576.9px;
+height: 182px;
+left: 593.43px;
+top: 1136px;
+
+
+
+/* Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia. Mnima accusamus ratione soluta aperiam sit voluptate? Dicta quod deserunt quam temporibus cumque magnam! */
+
+position: absolute;
+width: 558.41px;
+height: 143px;
+left: 593.43px;
+top: 1175px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 150%;
+/* or 27px */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* About Me */
+
+position: absolute;
+width: 576.9px;
+height: 24.42px;
+left: 593.43px;
+top: 1136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+
+/* profile-box */
+
+position: absolute;
+width: 412.08px;
+height: 229px;
+left: 125px;
+top: 1136px;
+
+
+
+/* Doğum tarihi İkamet Şehri Eğitim Durumu Tercih Ettiği Rol */
+
+position: absolute;
+width: 155.65px;
+height: 180px;
+left: 125px;
+top: 1185px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* 24.03.1996 Ankara Hacettepe Ünv. Biyoloji Lisans, 2016 Frontend, UI */
+
+position: absolute;
+width: 231.8px;
+height: 180px;
+left: 305.29px;
+top: 1185px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 200%;
+/* or 36px */
+letter-spacing: 0.01em;
+
+color: #000000;
+
+
+
+/* Profile */
+
+position: absolute;
+width: 137.09px;
+height: 28px;
+left: 125px;
+top: 1136px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+
+/* Profile */
+
+position: absolute;
+width: 150px;
+height: 48px;
+left: 125px;
+top: 1049px;
+
+/* text-5xl/leading-none/font-semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+
+color: #1F2937;
+
+
+
+/* Vector 2 */
+
+position: absolute;
+width: 1134.08px;
+height: 0px;
+left: 130.92px;
+top: 1010px;
+
+border: 1px solid #BAB2E7;
+
+
+/* projects */
+
+position: absolute;
+width: 1140px;
+height: 575px;
+left: 126px;
+top: 1407px;
+
+
+
+/* projects-list */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 120px;
+
+position: absolute;
+width: 1140px;
+height: 449px;
+left: 126px;
+top: 1533px;
+
+
+
+/* p1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 300px;
+height: 449px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 41 */
+
+width: 300px;
+height: 180px;
+
+background: url(app-example1.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Workintech */
+
+width: 300px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible. */
+
+width: 300px;
+height: 126px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 125%;
+/* or 18px */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* techStack */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 221px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 68px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* react */
+
+width: 32px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 72px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* redux */
+
+width: 36px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 69px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* redux */
+
+width: 33px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* details */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 11px;
+
+width: 300px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Github */
+
+margin: 0 auto;
+width: 52px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-decoration-line: underline;
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* View Site */
+
+margin: 0 auto;
+width: 72px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-decoration-line: underline;
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 300px;
+height: 449px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 41 */
+
+width: 300px;
+height: 180px;
+
+background: url(app-example2.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Random Jokes */
+
+width: 300px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible. */
+
+width: 300px;
+height: 126px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 125%;
+/* or 18px */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* techStack */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 221px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 68px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* react */
+
+width: 32px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 72px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* redux */
+
+width: 36px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 69px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* redux */
+
+width: 33px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* details */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 11px;
+
+width: 300px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Github */
+
+margin: 0 auto;
+width: 52px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-decoration-line: underline;
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* View Site */
+
+margin: 0 auto;
+width: 72px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-decoration-line: underline;
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* p3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 300px;
+height: 449px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 41 */
+
+width: 300px;
+height: 180px;
+
+background: url(app-example3.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Journey */
+
+width: 300px;
+height: 28px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* A simple, customizable, minimal setup cookie plugin that allows your users to select which cookies to accept or decline. This was created with vanilla JS, SCSS and Parcel Bundler and is available as a NPM package and the git repository makes any type of customization to code and themes possible. */
+
+width: 300px;
+height: 126px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 125%;
+/* or 18px */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* techStack */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 221px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 68px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* react */
+
+width: 32px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 72px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* redux */
+
+width: 36px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* pill-react */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 6px 18px 7px;
+gap: 10px;
+
+width: 69px;
+height: 27px;
+
+background: #FFFFFF;
+border: 1px solid #3730A3;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* redux */
+
+width: 33px;
+height: 14px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 100%;
+/* identical to box height, or 14px */
+display: flex;
+align-items: center;
+letter-spacing: -0.05em;
+
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* details */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 11px;
+
+width: 300px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Github */
+
+margin: 0 auto;
+width: 52px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-decoration-line: underline;
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* View Site */
+
+margin: 0 auto;
+width: 72px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 16px;
+/* identical to box height, or 100% */
+text-decoration-line: underline;
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* çizgi */
+
+position: absolute;
+width: 1140px;
+height: 0px;
+left: 126px;
+top: 1407px;
+
+border: 1px solid #BAB2E7;
+
+
+/* Projects */
+
+position: absolute;
+width: 191px;
+height: 48px;
+left: 126px;
+top: 1449px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 48px;
+/* identical to box height, or 100% */
+
+color: #1F2937;
+
+
+
+/* skills */
+
+position: absolute;
+width: 1140px;
+height: 179px;
+left: 125px;
+top: 789px;
+
+
+
+/* skills-list */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+align-items: flex-start;
+align-content: space-between;
+padding: 0px;
+gap: 120px;
+
+position: absolute;
+width: 1140px;
+height: 104px;
+left: 125px;
+top: 864px;
+
+
+
+/* Group 37 */
+
+width: 300px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Java Script */
+
+position: absolute;
+width: 236px;
+height: 28px;
+left: 0px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+
+/* Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. */
+
+position: absolute;
+width: 300px;
+height: 48px;
+left: 0px;
+top: 56px;
+
+/* text-xs/leading-4/font-normal */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* Group 38 */
+
+width: 300px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* React.Js */
+
+position: absolute;
+width: 125.68px;
+height: 28px;
+left: 422.03px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+
+/* Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. */
+
+position: absolute;
+width: 300px;
+height: 48px;
+left: 420px;
+top: 56px;
+
+/* text-xs/leading-4/font-normal */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* Group 39 */
+
+width: 300px;
+height: 104px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Node.Js */
+
+position: absolute;
+width: 122.26px;
+height: 28px;
+left: 840px;
+top: 0px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 28px;
+/* identical to box height, or 93% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+
+/* Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. */
+
+position: absolute;
+width: 300px;
+height: 48px;
+left: 840px;
+top: 56px;
+
+/* text-xs/leading-4/font-normal */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 16px;
+/* or 133% */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* Skills */
+
+position: absolute;
+width: 1039px;
+height: 64px;
+left: 125px;
+top: 789px;
+
+/* text-5xl/leading-none/font-semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 48px;
+/* or 100% */
+
+color: #1F2937;
+
+
+
+/* hero */
+
+position: absolute;
+width: 1140px;
+height: 428px;
+left: 125px;
+top: 237px;
+
+
+
+/* hero-left */
+
+position: absolute;
+width: 596px;
+height: 428px;
+left: 125px;
+top: 237px;
+
+
+
+/* Hi, I’m Almila. I’m a full-stack developer. If you are looking for a Developer who to craft solid and scalable frontend products with great user experiences. Let’s shake hands with me. */
+
+position: absolute;
+width: 553px;
+height: 84px;
+left: 125px;
+top: 489px;
+
+/* text-lg/leading-7/font-normal */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* Creative thinker Minimalism lover */
+
+position: absolute;
+width: 596px;
+height: 144px;
+left: 125px;
+top: 305px;
+
+/* text-7xl/leading-none/font-bold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 72px;
+line-height: 72px;
+/* or 100% */
+
+/* Default/gray/800 */
+color: #1F2937;
+
+
+
+/* isim */
+
+position: absolute;
+width: 201px;
+height: 28px;
+left: 125px;
+top: 237px;
+
+
+
+/* Almila Su */
+
+position: absolute;
+width: 89px;
+height: 28px;
+left: 237px;
+top: 237px;
+
+/* text-xl/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 28px;
+/* identical to box height, or 140% */
+
+/* Default/indigo/700 */
+color: #4338CA;
+
+
+
+/* Line 11 */
+
+position: absolute;
+width: 102px;
+height: 0px;
+left: 125px;
+top: 251px;
+
+/* Default/indigo/700 */
+background: #4338CA;
+/* Default/indigo/800 */
+border: 1px solid #3730A3;
+
+
+/* buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+position: absolute;
+width: 421px;
+height: 52px;
+left: 125px;
+top: 613px;
+
+
+
+/* hire button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 32px;
+gap: 10px;
+
+width: 131px;
+height: 52px;
+
+/* Default/indigo/800 */
+background: #3730A3;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Hire me */
+
+width: 67px;
+height: 28px;
+
+/* text-lg/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Github Button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 12px;
+gap: 10px;
+
+width: 127px;
+height: 52px;
+
+/* Default/white */
+background: #FFFFFF;
+/* Default/indigo/800 */
+border: 1px solid #3730A3;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* brand / github */
+
+width: 26px;
+height: 26.26px;
+
+background: #3730A3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Github */
+
+width: 59px;
+height: 28px;
+
+/* text-lg/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Linkedin Button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 20px 12px 12px;
+gap: 10px;
+
+width: 139px;
+height: 52px;
+
+/* Default/white */
+background: #FFFFFF;
+/* Default/indigo/800 */
+border: 1px solid #3730A3;
+border-radius: 6px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* brand / LinkedIn */
+
+width: 24px;
+height: 25.21px;
+
+background: #3730A3;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Github */
+
+width: 73px;
+height: 28px;
+
+/* text-lg/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 1 */
+
+position: absolute;
+width: 476px;
+height: 375px;
+left: 789px;
+top: 265px;
+
+background: url(image.png);
+box-shadow: 0px 8px 28px -6px rgba(24, 39, 75, 0.12), 0px 18px 88px -4px rgba(24, 39, 75, 0.14);
+border-radius: 18px;
+
+
+/* header */
+
+position: absolute;
+width: 1141.46px;
+height: 62px;
+left: 125px;
+top: 87px;
+
+
+
+/* nav */
+
+position: absolute;
+width: 391.86px;
+height: 52px;
+left: 874.59px;
+top: 92px;
+
+
+
+/* nav-Skills */
+
+position: absolute;
+width: 46.22px;
+height: 28px;
+left: 874.59px;
+top: 104px;
+
+/* text-lg/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* nav-Projects */
+
+position: absolute;
+width: 72.92px;
+height: 28px;
+left: 1002.97px;
+top: 104px;
+
+/* text-lg/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Default/gray/500 */
+color: #6B7280;
+
+
+
+/* Frame 5 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 32px;
+gap: 10px;
+
+position: absolute;
+width: 131px;
+height: 52px;
+left: 1135.46px;
+top: 92px;
+
+/* Default/white */
+background: #FFFFFF;
+/* Default/indigo/800 */
+border: 1px solid #3730A3;
+border-radius: 6px;
+
+
+/* Hire me */
+
+width: 67px;
+height: 28px;
+
+/* text-lg/leading-7/font-medium */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+/* Default/indigo/800 */
+color: #3730A3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* logo */
+
+position: absolute;
+width: 63.68px;
+height: 62px;
+left: 125px;
+top: 87px;
+
+
+
+/* Ellipse 9 */
+
+position: absolute;
+width: 63.68px;
+height: 62px;
+left: 125px;
+top: 87px;
+
+background: #EEEBFF;
+
+
+/* A */
+
+position: absolute;
+width: 18.37px;
+height: 32.22px;
+left: 157.86px;
+top: 100px;
+
+/* text-2xl/leading-8/font-semibold */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* or 133% */
+
+color: #7B61FF;
+
+transform: matrix(0.87, 0.49, -0.51, 0.86, 0, 0);
+
+
+/* mode switch */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 14px;
+
+position: absolute;
+width: 359px;
+height: 38px;
+left: 907px;
+top: 23px;
+
+
+
+/* Dark Mode */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 167px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Night Mode */
+
+width: 167px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 55px;
+height: 24px;
+left: 55px;
+top: 0px;
+
+background: #4731D3;
+border-radius: 100px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 15px;
+height: 16px;
+left: 50px;
+top: 4px;
+
+background: #FFE86E;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 2px;
+height: 2px;
+left: 52px;
+top: 11px;
+
+background: #E92577;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* DARK MODE */
+
+position: absolute;
+width: 103px;
+height: 18px;
+left: 64px;
+top: 3px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.1em;
+
+color: #777777;
+
+
+
+/* | */
+
+width: 6px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.1em;
+
+color: #777777;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Dil Seçimi */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 10px;
+gap: 10px;
+
+width: 158px;
+height: 38px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* TÜRKÇE’YE GEÇ */
+
+width: 138px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+letter-spacing: 0.1em;
+
+color: #4731D3;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
